@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "philomel vault",
+  "mongoUri": "mongodb+srv://Philomel:RKvw57MN@cluster0-7ygmo.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
